@@ -1,0 +1,8 @@
+#intellij idea file
+.settings
+.classpath
+.project
+.idea
+target
+*.iml
+src/test/
